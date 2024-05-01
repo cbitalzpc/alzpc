@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.cchwebsites.com	TRUE	/	FALSE	1999999999	BNI_persistence	M7DuUajUBW9ShdDbhEJxQkAaMI4zJaSCd_JWLoC4sTNYBEDhqZzu4BW-MHvB8SaXIsQCsbQ0iXm-CcJZGRckGQ==
-www.alzpc.cpa	TRUE	/	FALSE	1999999999	PHPSESSID	flv81037vbfdag8jt9nattvahc
-www.alzpc.cpa	TRUE	/	FALSE	1999999999	BNES_PHPSESSID	XHKAK7tCVnO7gl/NULc3im9Km9fBFiVinJv8NqUw6zxASsBlEBCGx6L9b4UvbCSOB1oZ0UXPiu9gXGlu+MiW0S5Awj6RaTot
-www.alzpc.cpa	TRUE	/	FALSE	1999999999	SameSite	Lax
-
